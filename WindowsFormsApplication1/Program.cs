@@ -18,6 +18,7 @@ namespace WindowsFormsApplication1
         static void Main()
         {
             //Test bsyap86
+            //Soon Hui is always right
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1()); //what is this code doing?

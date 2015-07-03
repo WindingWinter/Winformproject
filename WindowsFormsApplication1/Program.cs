@@ -6,10 +6,6 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-
-    /// <summary>
-    /// the most useless program ever
-    /// </summary>
     static class Program
     {
         /// <summary>

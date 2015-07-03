@@ -26,7 +26,7 @@ namespace WindowsFormsApplication1
 
 
         /// <summary>
-        /// Now start to do a branch 1, SH also wants to work on it. 
+        /// Now start to do a branch 1, SH also wants to work on it. No one can disturb me!!!
         /// </summary>
         private static void Branch1()
         {

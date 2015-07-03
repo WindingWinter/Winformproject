@@ -29,7 +29,7 @@ namespace WindowsFormsApplication1
         /// Now start to do a branch 1, SH also wants to work on it.  Yap disturb again, SH work again.
         /// SH will win
         /// </summary>
-        private static void Branch1()
+        private static void Mature now()
         {
             //the content here is meant for b1
             // the b1 now more updates

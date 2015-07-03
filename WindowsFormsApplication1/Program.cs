@@ -34,6 +34,8 @@ namespace WindowsFormsApplication1
             //the content here is meant for b1
             // the b1 now more updates
             // sorry boss, let me work on branch 1 first
+
+          // the first thing you can do is to say hi
         }
     }
 }

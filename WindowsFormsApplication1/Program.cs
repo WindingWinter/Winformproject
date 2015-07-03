@@ -37,7 +37,6 @@ namespace WindowsFormsApplication1
 
           // the first thing you can do is to say hi
             // the second thing is you say me
-            // third thing....
     
         }
     }

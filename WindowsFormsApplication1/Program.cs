@@ -36,8 +36,6 @@ namespace WindowsFormsApplication1
             // sorry boss, let me work on branch 1 first
 
           // the first thing you can do is to say hi
-            // the second thing is you say me
-    
         }
     }
 }

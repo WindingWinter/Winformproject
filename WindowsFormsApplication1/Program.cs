@@ -17,6 +17,7 @@ namespace WindowsFormsApplication1
         [STAThread]
         static void Main()
         {
+            //Test bsyap86
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1()); //what is this code doing?

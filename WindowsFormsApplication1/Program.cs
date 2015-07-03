@@ -20,7 +20,7 @@ namespace WindowsFormsApplication1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1()); //what is this code doing?
+            Application.Run(new Form1());
         }
     }
 }

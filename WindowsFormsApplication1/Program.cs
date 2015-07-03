@@ -25,5 +25,19 @@ namespace WindowsFormsApplication1
         }
 
 
+
+        /// <summary>
+        /// Now start to do a branch 1, SH also wants to work on it.  Yap disturb again, SH work again.
+        /// SH will win
+        /// </summary>
+        private static void Maturenow()
+        {
+            //the content here is meant for b1
+            // the b1 now more updates
+            // sorry boss, let me work on branch 1 first
+
+          // the first thing you can do is to say hi
+        }
+
     }
 }

@@ -26,7 +26,7 @@ namespace WindowsFormsApplication1
 
 
         /// <summary>
-        /// 
+        /// Now start to do a branch 1
         /// </summary>
         private static void Branch1()
         {
